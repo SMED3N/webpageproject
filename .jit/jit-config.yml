@@ -1,0 +1,7 @@
+applications:
+- api_domain: api.teammatetest.riksrevisionen.se
+  application_name: TeamMate+
+  authentication_mode: non-authenticated
+  exclude_paths: []
+  target_url: https://teammatetest.riksrevisionen.se/TeamMate/DocumentRequest?key=781F34ACE8F549CBA4711B361D9443CC
+  type: web
